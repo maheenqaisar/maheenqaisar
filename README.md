@@ -36,7 +36,7 @@ Success is the best revenge! 😊
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift" width="45" height="45"/>
 <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftUI" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="45" height="45"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0U7Dimi4I7pd7UFO8abkJt7r8LYQ6Tmbxh7ERzPMmBivudGtiqmdibzpOH3GQglaa-Bk&usqp=CAU" alt="postman" width="45" height="45"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="45" height="45"/>
 <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
 </p>
