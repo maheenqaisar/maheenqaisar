@@ -10,7 +10,6 @@ Success is the best revenge! 😊
 
 * 🌍  I'm based in Mirpurkhas, Pakistan. 🇵🇰
 * ✉️  You can contact me at [Mail](maheenqaisar123@gmail.com)
-* 🚀  I'm currently working on Music Player App.
 * 🧠  I'm learning Swift and Core Java.
 * 🤝  I'm open to collaborating on projects related to iOS development and Backend Engineering.
 
@@ -36,7 +35,7 @@ Success is the best revenge! 😊
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift" width="45" height="45"/>
 <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftUI" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="45" height="45"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="45" height="45"/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" alt="postman" width="45" height="45"/>
 <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
 </p>
